@@ -16,7 +16,7 @@ Y SI EL SALDO ES DE MAS DE 100$ REALIZAR UN DESCUENTO DEL 15%
 function totalPagar(arrayPlatos) {
     let total = 0;
     for (let i = 0; i < arrayPlatos.length; i++) {
-    total += arrayPlatos[i].precio*arrayPlatos[i].cantidad;
+    total += arrayPlatos[i].precio;
   }
   return total;
 }
