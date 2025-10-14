@@ -5,3 +5,4 @@ function calcularTotal(platos) {
     }
     return total;
 }
+export { calcularTotal }
