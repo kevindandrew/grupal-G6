@@ -12,8 +12,16 @@ Y SI EL SALDO ES DE MAS DE 100$ REALIZAR UN DESCUENTO DEL 15%
     EMANUEL
     BELEN           FUNCION Q RECIBA UN ARRAY DE PLATOS Q TENDRAN NOMBRE Y EL PRECIO 
     JORGE               Y DEBERA RETORNAR EL TOTAL
+*/ 
+function totalPagar(arrayPlatos) {
+    let total = 0;
+    for (let i = 0; i < arrayPlatos.length; i++) {
+    total += arrayPlatos[i].precio*arrayPlatos[i].cantidad;
+  }
+  return total;
+}
 
-    ALFREDO
+/*    ALFREDO
     GERARDO         FUNCION Q RECIBA UN TOTAL Y RETORNE UN TRUE O FALSE 
     BOREN   
 
