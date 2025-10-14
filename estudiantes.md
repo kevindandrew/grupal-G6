@@ -2,7 +2,6 @@ profesor
 Kevin Rodriguez
 Estudiantes
 Alfredo Mariscal
-Kevin Rodriguez Calderon
 Ibraim Gonzalez
 Belen Mariel Segales Ramos
 david angel sepulveda esquella
