@@ -1,4 +1,8 @@
 profesor
-Kevin Rodriguez
+Kevin Rodriguez Calderon
 Estudiantes
 Jorge
+Gerardo Martinez
+Jaime
+moises
+R. Edmund Merren
