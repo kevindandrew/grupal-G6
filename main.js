@@ -22,3 +22,13 @@ Y SI EL SALDO ES DE MAS DE 100$ REALIZAR UN DESCUENTO DEL 15%
     IBRAIM             VAN A DARLE EL DESCUENTO SI LA PERSONA LO AMERITA   
     IGNACIO            Y EN UN ALERT MOSTRAR CUANTO DEBE PAGAR YA SEA Q TENGA O NO DESCUENTO
 */
+
+function precioTotal(platos) {
+  let suma = 0;
+
+  for (let i = 0; i < platos.length; i++) {
+    suma += platos[i].precio;
+  }
+
+  return suma;
+}
