@@ -1,5 +1,5 @@
 profesor
-Kevin Rodriguez
+Kevin Rodriguez Calderon
 Estudiantes
 Alfredo Mariscal
 Ibraim Gonzalez
@@ -12,3 +12,5 @@ moises
 R. Edmund Merren
 Boren Pardo Rios
 Ignacio Portillo
+Jaharlen Emanuel Arcela
+
