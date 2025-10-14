@@ -22,3 +22,13 @@ Y SI EL SALDO ES DE MAS DE 100$ REALIZAR UN DESCUENTO DEL 15%
     IBRAIM             VAN A DARLE EL DESCUENTO SI LA PERSONA LO AMERITA   
     IGNACIO            Y EN UN ALERT MOSTRAR CUANTO DEBE PAGAR YA SEA Q TENGA O NO DESCUENTO
 */
+
+
+// boren pardo rios
+let descuento=false;
+
+function descuento(precio){
+if (precio >=100){
+    descuento=true;
+}
+}
