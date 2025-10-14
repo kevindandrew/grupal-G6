@@ -17,8 +17,22 @@ Y SI EL SALDO ES DE MAS DE 100$ REALIZAR UN DESCUENTO DEL 15%
     GERARDO         FUNCION Q RECIBA UN TOTAL Y RETORNE UN TRUE O FALSE 
     BOREN   
 
+Y
+
 
     DAVID
     IBRAIM             VAN A DARLE EL DESCUENTO SI LA PERSONA LO AMERITA   
     IGNACIO            Y EN UN ALERT MOSTRAR CUANTO DEBE PAGAR YA SEA Q TENGA O NO DESCUENTO
 */
+
+function verificarAprobacion(total) {
+  if (total >= 60) {
+    return true;
+  } else {
+    return false;
+  }
+}
+
+
+console.log(verificarAprobacion(75)); // true
+console.log(verificarAprobacion(45)); // false
