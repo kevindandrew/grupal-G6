@@ -22,3 +22,13 @@ Y SI EL SALDO ES DE MAS DE 100$ REALIZAR UN DESCUENTO DEL 15%
     IBRAIM             VAN A DARLE EL DESCUENTO SI LA PERSONA LO AMERITA   
     IGNACIO            Y EN UN ALERT MOSTRAR CUANTO DEBE PAGAR YA SEA Q TENGA O NO DESCUENTO
 */
+function descuento(total, tieneDescuento) {
+    const descuento = 0.85;
+
+    if (tieneDescuento == true) {
+        total *= descuento;
+        alert(`Se ha aplicado un descuento del 15% a tu cuenta. Precio final: ${total.toFixed(2)}`);
+    } else {
+        alert(`No tienes descuento, tu total es ${total.toFixed(2)}`);
+    }
+}
