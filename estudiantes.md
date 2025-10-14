@@ -1,7 +1,6 @@
 profesor
 Kevin Rodriguez Calderon
 Estudiantes
-Jaharlen Emanuel Arcela
 Ibraim Gonzalez
 Belen Mariel Segales Ramos
 david angel sepulveda esquella
@@ -10,4 +9,6 @@ Gerardo Martinez
 Jaime
 moises
 R. Edmund Merren
-
+Boren Pardo Rios
+Ignacio Portillo
+Jaharlen Emanuel Arcela
