@@ -1,4 +1,11 @@
 profesor
-Kevin Rodriguez
+Kevin Rodriguez Calderon
 Estudiantes
+
 Belen Mariel Segales Ramos
+david angel sepulveda esquella
+Jorge
+Gerardo Martinez
+Jaime
+moises
+R. Edmund Merren
