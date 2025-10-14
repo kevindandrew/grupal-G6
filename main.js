@@ -1,3 +1,4 @@
+import { calcularTotal } from "./jaharlen.js";
 /* ---------------RESTAURANTE----------------- 
 MOSTRAR UN MENU DE OPCIONES DE LOS PLATOS Q TENEMOS DISPONIBLES 
 LA PERSONA PUEDE ELEGIR MAS DE UN PLATO DEPUES DE ELEGIR LOS PLATOS
